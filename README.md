@@ -9,3 +9,4 @@ My name is Lilly Sawyer and I am the co-founder and CTO of Fastier, the online t
 </p>
 
 ## SOLUTION : 
+<img src="https://github.com/mvaibhav5874/AWS_APAC/blob/main/Architecture%20Diagram.png" alt="Architecure_image" width="300" height="200">
