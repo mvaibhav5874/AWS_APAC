@@ -118,3 +118,6 @@ Users access your application through the internet, reaching Route 53, the DNS s
 Thank you for your interest in AWS!  
 Sincerely,    
 The AWS Team 
+
+>[!NOTE]
+>The certificate for this is added on links of this repo
