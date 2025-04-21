@@ -120,4 +120,4 @@ Sincerely,
 The AWS Team 
 
 >[!NOTE]
->The certificate for this is added on links of this repo
+>The certificate for this is added on links of this reposotry
